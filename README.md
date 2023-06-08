@@ -4,6 +4,7 @@
 My skills: 
 - 📲 Mobile developer (Android, Kotlin-Java, Dagger Hilt, Jetpack Compose, Persistencia de datos, Sqlite, Coroutines, Retrofit, Okhttp y Firebase)
 - 🌐 Web developer (Java, Spring Boot, MySql, JavaScript, Html, Css y React)
+- 🧑🏻‍💻 Otras tecnologías (Phyton FastAPI)
 
 
 
